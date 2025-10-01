@@ -16,7 +16,8 @@ This repository contains the source code, testbenches, and documentation for a c
 
 ## Repository Structure
 
-<img width="703" height="418" alt="image" src="https://github.com/user-attachments/assets/7b1ea617-effa-433d-be9b-a488baaf8960" />
+<img width="977" height="355" alt="image" src="https://github.com/user-attachments/assets/4503ab93-6ee4-49de-82bb-9103f1414829" />
+
 
 
 ## How to Run the Simulation
